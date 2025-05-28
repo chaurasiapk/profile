@@ -8,7 +8,7 @@ const About: React.FC = () => {
     {
       icon: <Users size={32} />,
       title: 'Collaboration',
-      description: 'Strong team player with excellent communication skills.'
+      description: 'Strong team player with excellent communication skills.',
     },
     {
       icon: <Map size={32} />,

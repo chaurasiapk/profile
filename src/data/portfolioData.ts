@@ -75,8 +75,8 @@ const projects: IProject[] = [
     image: projectImages[5],
     technologies: ["React", "TypeScript", "Bootstrap", "Tailwind CSS"],
     category: "web",
-    githubLink: "https://github.com/chaurasiapk/portfolio",
-    demoLink: "/",
+    githubLink: "https://github.com/chaurasiapk/profile",
+    demoLink: "https://chaurasiapk.github.io/profile",
   },
    {
     title: "Compony Portfolio Project",
